@@ -18,12 +18,12 @@ external file <b>fahrtemp.txt</b>.
 </table>
 
 # Attempted Answer
-Find at: <br>
-Java file (class): TempConverter\src\converter/Tempconverter.java<br>
-Text files location: TempConverter\src
+<b>Find at:<b> <br>
+<b>Java file (class):</b> TempConverter\src\converter/Tempconverter.java<br>
+<b>Text files location:</b> TempConverter\src
 
 # Usage Instruction for Student
-Donwload or clone Repo <br>
-Extract folder and move to your workspace director <br>
-Open folder with Eclipse IDE (recommended) or Netbeans IDE<br>
-Run and check result in fahrtemp.txt file<br>
+<li>Donwload or clone Repo.</li>
+<li>Extract folder and move to your workspace director. </li>
+<li>Open folder with Eclipse IDE (recommended) or Netbeans IDE.</li>
+<li>Run and check result in fahrtemp.txt file.</li>
