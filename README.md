@@ -21,3 +21,9 @@ external file <b>fahrtemp.txt</b>.
 Find at: <br>
 Java file (class): TempConverter\src\converter/Tempconverter.java<br>
 Text files location: TempConverter\src
+
+# Usage Instruction for Student
+Donwload or clone Repo <br>
+Extract folder and move to your workspace director <br>
+Open folder with Eclipse IDE (recommended) or Netbeans IDE<br>
+Run and check result in fahrtemp.txt file<br>
