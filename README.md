@@ -12,7 +12,7 @@ external file <b>fahrtemp.txt</b>.
 
 <table>
 <tr><td>Cels Temp</td>       <td>Fahr Temp</td></tr>
-<tr><td>40</td>  	           <td>104</td></tr>
+<tr><td>40</td>  	           <td>104.00</td></tr>
 <tr><td>:</td>               <td>:</td></tr>
 <tr><td>31</td>              <td>87.80</td></tr>
 </table>
