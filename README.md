@@ -18,7 +18,7 @@ external file <b>fahrtemp.txt</b>.
 </table>
 
 # Attempted Answer
-<b>Find at:<b> <br>
+<b>Find at:</b> <br>
 <b>Java file (class):</b> TempConverter\src\converter/Tempconverter.java<br>
 <b>Text files location:</b> TempConverter\src
 
