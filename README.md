@@ -24,6 +24,6 @@ external file <b>fahrtemp.txt</b>.
 
 # Usage Instruction for Student
 <li>Donwload or clone Repo.</li>
-<li>Extract folder and move to your workspace director. </li>
+<li>Extract folder and move to your workspace directory. </li>
 <li>Open folder with Eclipse IDE (recommended) or Netbeans IDE.</li>
 <li>Run and check result in fahrtemp.txt file.</li>
